@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829231355148",
+    "project_id": "bitirmeprojesi-49cc9",
+    "storage_bucket": "bitirmeprojesi-49cc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829231355148:android:c088091fd44cded8852529",
+        "android_client_info": {
+          "package_name": "com.yessteam.unicamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829231355148-pn9cllc7l7ndi3pfkp6ma6q60u003ece.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCt4C2VOtS4ifWj5ITT1MnKnEBLvepMMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829231355148-pn9cllc7l7ndi3pfkp6ma6q60u003ece.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
